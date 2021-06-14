@@ -1,5 +1,7 @@
+===================
 #COMANDOS GITLAB
-
+===================
+(comandos básicos iniciais)
 
 #git clone - faz download / clone de um repositório que já existe
 
@@ -10,11 +12,21 @@
 #git commit -m (
 
 #git push 
-
+===================================================================
 (Configurando Usuário)
 
 #git config --global user.email "you@example.com"
 #git config --global user.name "Your Name"
+=======================================================================
+(Verificando Logs)
 
 #git log 
 #git log -3
+
+(MENOS INFORMAÇÃO)
+#git log --online
+
+(BUSCANDO LOG PELO AUTOR)
+#git log --author="nome-autor"
+======================================================================
+
