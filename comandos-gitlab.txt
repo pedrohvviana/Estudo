@@ -28,5 +28,8 @@
 
 (BUSCANDO LOG PELO AUTOR)
 #git log --author="nome-autor"
+
+(LOG INTERFACE MAIS INTUITIVA)
+#git log --graph --decorate
 ======================================================================
 
