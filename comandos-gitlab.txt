@@ -32,9 +32,11 @@
 (LOG INTERFACE MAIS INTUITIVA)
 #git log --graph --decorate
 ======================================================================
-()
+(Busca no servidor)
 #git pull 
-
+======================================================================
+(Remover)
+#git rm 
 
 
 
