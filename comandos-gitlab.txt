@@ -1,0 +1,18 @@
+#COMANDOS GITLAB
+
+
+#git clone - faz download / clone de um repositório que já existe
+
+#git add - 
+
+#git status - 
+
+#git commit -m (
+
+#git push 
+
+(Configurando Usuário)
+
+#git config --global user.email "you@example.com"
+#git config --global user.name "Your Name"
+
