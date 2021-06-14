@@ -5,13 +5,13 @@
 
 #git clone - faz download / clone de um repositório que já existe
 
-#git add - 
+#git add - (adiciona quando é feito qualquer alterações)
 
-#git status - 
+#git status - (verifica status)
 
-#git commit -m (
+#git commit -m "Nome Mensagem Identificar" nome-arquivo
 
-#git push 
+#git push - colocar arquivo no servidor 
 ===================================================================
 (Configurando Usuário)
 
@@ -32,4 +32,11 @@
 (LOG INTERFACE MAIS INTUITIVA)
 #git log --graph --decorate
 ======================================================================
+()
+#git pull 
+
+
+
+
+
 
